@@ -1,0 +1,61 @@
+= ================================ =
+= LudumDare 48 - LD32 planning     =
+= ================================ =
+= Theme: An unconventional weapon  =
+=    PL: Niekonwencjonalna broñ    =
+= ================================ =
+= My goal: To learn LibGDX         =
+= ================================ =
+= Name: Gravity Warrior            =
+= ================================ =
+
+
+Completely changed my idea to a light scepter as the weapon.
+But the notes and thought process is here:
+
+
+The game:
+- side scroller
+- gravity as your weapon
+- you can throw enemies at (spikes?) to kill them
+- THE GOAL?
+- use gravity to divert projectiles back at enemies who shot them
+- constant controll mode to steer (projectiles?) at something?
+
+
+====================================
+
+Type (just ideas):
+- top-down
+- side-scroller
+- tower defense
+- many characters (thing GTA V) (maybe)
+
+Contradictions: (we don't want those)
+- regular gun
+- magic/skill
+- any kind of projectile
+- portal gun
+
+Ideas:
+- Tower defense
+  '- indirect control - some kind of traps, latches, switches, trapdoors,
+     releasing your own guards, animals, etc
+- abstract idea?
+- - time - kill enemies with passing time; hide n seek maybe?
+- water
+- neighbors from hell - main char uses trick to piss of his neighbors
+- kill with laughter
+- use the Internet as a weapon
+- eyesight / staring contest / look at something for long time to kill it
+  '- Mario type game with enemies attacking you only when you're not looking
+- light?
+- economic warfare?
+- rat explosive (stick C4 up a rat's butt)
+- touch to destroy
+- room explorer, small missions, use Internet (minigames) to exploit the world
+- slowed time as your skill/ability and that being your weapon
+- hologram to attract enemie's attention (or any other reason)
+- gravity
+- cheating to pass a test
+  '- clarvionce / agility would be your weapon
