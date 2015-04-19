@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="40" height="24" tilewidth="32" tileheight="32" nextobjectid="1">
+ <tileset firstgid="1" source="tilesheet.tsx"/>
+ <layer name="first" width="40" height="24">
+  <data encoding="base64" compression="zlib">
+   eJztwwEJAAAMBKGL+/0TrMdQcNVUVVX1+QPGkIYQ
+  </data>
+ </layer>
+ <layer name="second" width="40" height="24">
+  <data encoding="base64" compression="zlib">
+   eJzVVUEOwCAIky/uFfP/H9guSwxBqAMVmxBxU9ooYC2l1OSWGSfok84yw31Kc8lfBc6p6d2tb2V9SBzIt5X1i9zLzBrocXniRJ2fVXcjcXiMTP1vZ/4hQPrJN9Jrd7OW+/SD15N/kj4NxEZLW++fta+3hhRu6Z+01sofK7es/aSYtgfFyHvWzmf0QzS+pjcKPZ4Rrpn9Dz1PNA7H5fSj9Wl5WAZ9b6+LeCdn4YT3rfVPsAfPJIH0
+  </data>
+ </layer>
+ <layer name="third" width="40" height="24">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgagI1K4qNg6AFWKonTKk2Mps1RMNCAfaAdQGUwmkdGFiAU36PpYRSMpgEE4CBSbBSMglGAGwAA71kAaQ==
+  </data>
+ </layer>
+ <layer name="lights" width="40" height="24">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgaQI9K4qNg5AJapYnRtDkKBhqID7QDqAxG88jgB454MKmAUHyTmx6o4bZRMDjAaJmAABJEiuECulBMDnsUjILhAgAM7QcQ
+  </data>
+ </layer>
+ <layer name="active" width="40" height="24">
+  <data encoding="base64" compression="zlib">
+   eJzdlWEKgzAMRnMJ/eEN1nmF7f7HGoJl4TMxSa1GfBCsVvRpvxKiZzMFKspwc79XB78rGNfK4rNWdSF2jvMZWO+/kx/+R5zXKOw+HO/B98UM17hT5v+JoOVvpGv2ibRunvxlIPlp+as5svJ0hMJK85NAdy8tPcFCy590fO8U9zvD08tXqAr6aZ7aniDarq2UP8SbQa8fR/PLXIMF7zdL+TsD3mN6I+WhZYzPjLhafWKmf7+Mji0/b049TMFxL7x+R9Y0Au7nAnNZPZj3umyXFn6PcR9y
+  </data>
+ </layer>
+ <layer name="enemy" width="40" height="24">
+  <data encoding="base64" compression="zlib">
+   eJztwQENAAAAwqD3T20PBxQAAAD8Gw8AAAE=
+  </data>
+ </layer>
+</map>

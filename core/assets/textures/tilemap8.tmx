@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="40" height="24" tilewidth="32" tileheight="32" nextobjectid="1">
+ <tileset firstgid="1" name="tilesheet" tilewidth="32" tileheight="32">
+  <image source="tilesheet.png" trans="ff00ff" width="640" height="640"/>
+  <tile id="2">
+   <properties>
+    <property name="color" value="yellow"/>
+   </properties>
+  </tile>
+  <tile id="3">
+   <properties>
+    <property name="color" value="black"/>
+   </properties>
+  </tile>
+  <tile id="20">
+   <properties>
+    <property name="action" value="nextLevel"/>
+   </properties>
+  </tile>
+  <tile id="21">
+   <properties>
+    <property name="action" value="death"/>
+   </properties>
+  </tile>
+  <tile id="22">
+   <properties>
+    <property name="color" value="blue"/>
+   </properties>
+  </tile>
+  <tile id="23">
+   <properties>
+    <property name="color" value="blue-circle"/>
+   </properties>
+  </tile>
+  <tile id="25">
+   <properties>
+    <property name="action" value="explode"/>
+   </properties>
+  </tile>
+  <tile id="26">
+   <properties>
+    <property name="action" value="life"/>
+   </properties>
+  </tile>
+  <tile id="40">
+   <properties>
+    <property name="action" value="nextLevel"/>
+   </properties>
+  </tile>
+  <tile id="41">
+   <properties>
+    <property name="action" value="death"/>
+   </properties>
+  </tile>
+  <tile id="42">
+   <properties>
+    <property name="action" value="death"/>
+   </properties>
+  </tile>
+  <tile id="43">
+   <properties>
+    <property name="action" value="death"/>
+   </properties>
+  </tile>
+  <tile id="44">
+   <properties>
+    <property name="color" value="red"/>
+   </properties>
+  </tile>
+  <tile id="45">
+   <properties>
+    <property name="color" value="pink"/>
+   </properties>
+  </tile>
+  <tile id="48">
+   <properties>
+    <property name="action" value="death"/>
+   </properties>
+  </tile>
+  <tile id="60">
+   <properties>
+    <property name="action" value="coin"/>
+   </properties>
+  </tile>
+  <tile id="62">
+   <properties>
+    <property name="type" value="shooting"/>
+   </properties>
+  </tile>
+  <tile id="64">
+   <properties>
+    <property name="color" value="toxic"/>
+   </properties>
+  </tile>
+  <tile id="67">
+   <properties>
+    <property name="action" value="death"/>
+   </properties>
+  </tile>
+  <tile id="68">
+   <properties>
+    <property name="action" value="death"/>
+   </properties>
+  </tile>
+  <tile id="69">
+   <properties>
+    <property name="action" value="death"/>
+   </properties>
+  </tile>
+  <tile id="88">
+   <properties>
+    <property name="action" value="death"/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="first" width="40" height="24">
+  <data encoding="base64" compression="zlib">
+   eJztwwEJAAAMBKGr/e3XYyi4aqqqqvr8AYIhxdA=
+  </data>
+ </layer>
+ <layer name="second" width="40" height="24">
+  <data encoding="base64" compression="zlib">
+   eJzlVu0KACEI6/3Bd76/R6Rt0z6gIOhwy2XqZa01u3wqQ+WxPl7Wlz1D5s57zIzz3xfVnY1fxB3ZVujz4urxIszu+Kmc3foYfyzeurVaH6g/Fl99v2zNRLZT+YfaKvRFezA9MqNvlJtq/Jh+9Ur+sf0Ftd1UHx6+6n2A+mPxle8D5F+e9cFwV3Oq+otaH8i3Gj9leP69vD+tD8HfPj9xgH2V
+  </data>
+ </layer>
+ <layer name="third" width="40" height="24">
+  <data encoding="base64" compression="zlib">
+   eJztllsKgCAQRf3R1tBWy8VHH4LUdV6MStIBQcYeJ0cnQ1ibKGiFJHie5BoN+6MlEJsJcuH8DhDLXezeTnVfMn+ngwP63gLlV497vEtLDv5+Wsp+io1xDz9pjiV5pOJ3P4PYTJAL52epcfU9rVwiOL/ZzPbj6ibn11rT1jqirZfee8HiTa1ni99mcLAyei+g+aVybvHrdRZAeP4fpGjqJ/IbOT8/a2Kt757nyy9wAfLcEQ0=
+  </data>
+ </layer>
+ <layer name="lights" width="40" height="24">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFMMBMJTW0dsMoGAXDBYym98EHyImT0XgcBYMVUDttilPZvFEwvMBoWTh0gCMSHgUjDwAABNUA8w==
+  </data>
+ </layer>
+ <layer name="active" width="40" height="24">
+  <data encoding="base64" compression="zlib">
+   eJzdlkEOhCAMRbnEbLyB48oDsBu9g/e/iHFB0nRa4BeozryEhEBsP20thPC/RGFtqlzzQNKH7I8mKvOnkDRJ+dP0ep9jz/hHdFv4dLSVuKMOEJ9WfZENzlr4nudS6ym94kfr6srzFr5rbaT/HFKsDqOtmt6MnAmJ1R70ekD8ojHnsSrVJsKbjGSrxSbaYy5f6H07umZb7Xv1ROs7pUZfzxrzwNLrfuFcd5DL/SSstfgp+eeMeMNQFjI0nvhfvMjcUx+9P3LMDlp6cAJAZxSu
+  </data>
+ </layer>
+ <layer name="enemy" width="40" height="24">
+  <data encoding="base64" compression="zlib">
+   eJztwQENAAAAwqD3T20PBxQAAAD8Gw8AAAE=
+  </data>
+ </layer>
+</map>
