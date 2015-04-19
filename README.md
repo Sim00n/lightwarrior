@@ -33,7 +33,7 @@ I've used Java with the LibGDX library. Included in that I've used Box2D and Box
 
 #### About me
 
-#####Szymon Puzdrowski
+#####Szymon Puzdrowski (aka Sim00n)
 * portalowicz@gmail.com
 * https://www.linkedin.com/pub/szymon-puzdrowski/8b/3ab/259
 * http://twitch.tv/lsrpnet
@@ -44,5 +44,6 @@ I've used Java with the LibGDX library. Included in that I've used Box2D and Box
 #### Some screenshots
 
 ![Screenshot1](http://pliki.ls-rp.net/GW/pics/ss1.png)
-![Screenshot1](http://pliki.ls-rp.net/GW/pics/ss1.png)
-![Screenshot1](http://pliki.ls-rp.net/GW/pics/ss1.png)
+![Screenshot2](http://pliki.ls-rp.net/GW/pics/ss2.png)
+![Screenshot3](http://pliki.ls-rp.net/GW/pics/ss3.png)
+![Screenshot4](http://pliki.ls-rp.net/GW/pics/ss4.png)
